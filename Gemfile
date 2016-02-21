@@ -35,6 +35,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use New Relic for performance management
 gem 'newrelic_rpm'
 
+#  Allows Heroku to serve static assets such as images and stylesheets
+gem 'rails_12factor', '0.0.2', group: :production
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
