@@ -1,23 +1,23 @@
-# FresherNote
+# klart.io
 
-[Heroku link][heroku] **NB:** This should be a link to your production site
+Illuminate your data with vibrant visualizations on [klart.io][klart.io].
 
-[heroku]: http://www.herokuapp.com
+[klart.io]: http://www.klart.io
 
 ## Minimum Viable Product
 
-FresherNote is a web application inspired by Evernote built using Ruby on Rails
-and React.js. FresherNote allows users to:
+klart.io is a web application inspired by chartio and built using Ruby on Rails
+and React.js. Users can use klart.io to:
 
 <!-- This is a Markdown checklist. Use it to keep track of your
 progress. Put an x between the brackets for a checkmark: [x] -->
 
 - [ ] Create an account
 - [ ] Log in / Log out
-- [ ] Create, read, edit, and delete notes
-- [ ] Organize notes within Notebooks
-- [ ] Tag notes with multiple tags
-- [ ] Apply complex styling to notes while editing
+- [ ] Create, read, edit, and delete data sets
+- [ ] Create, read, edit, and delete charts
+- [ ] Take a tour of a sample data set
+
 
 ## Design Docs
 * [View Wireframes][views]
